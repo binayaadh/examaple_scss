@@ -1,2 +1,3 @@
 # examaple_scss
-For learning purpose
+For learning purpose.
+Added text in R. 
